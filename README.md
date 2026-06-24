@@ -8,7 +8,7 @@ EverAlbum is a smart album generation project with a `tkinter` interface. It cur
 
 Automatically generate beautiful photo albums from thousands of personal photos.
 
-The generator automatically:
+__The generator automatically:__
 
 📅 Clusters photos by month and event
 
@@ -18,7 +18,7 @@ The generator automatically:
 
 📖 Automatically generates chapter pages and back covers
 
-Features
+__Features__
 
 Automatic photo clustering
 
