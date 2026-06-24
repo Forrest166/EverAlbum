@@ -5,7 +5,25 @@ EverAlbum is a smart album generation project with a `tkinter` interface. It cur
 - **Album Main Program**: Aggregates photos by timeline and location to generate an A4 `PDF`, with an optional export to `PPTX`.
 - **Portrait Background Remover**: Uses `rembg` to remove backgrounds from selected portraits and saves the transparent PNGs to the album asset library for use as overlays on chapter pages.
 
-The current code has completed the first round of modularization but still retains a practical constraint: the main logic for album generation is still concentrated in `[everalbum/album_app.py](/D:/Codex/EverAlbum/everalbum/album_app.py)`. For future maintenance, it is recommended to treat it as a "stable but heavy" core file.
+
+Automatically generate beautiful photo albums from thousands of personal photos.
+
+The generator automatically:
+
+📅 Clusters photos by month and event
+🎨 Groups photos by visual similarity
+🖼️ Supports 40+ album layout styles
+📖 Automatically generates chapter pages and back covers
+
+Features
+
+Automatic photo clustering
+Timeline-based organization
+Style similarity analysis
+40+ professionally designed layouts
+Automatic chapter pages
+Automatic back cover generation
+Chinese interface (English version coming soon)
 
 ## Directory Structure
 ```text
@@ -26,29 +44,28 @@ EverAlbum/
 └─ SKILL.md                              # Skill document for future maintenance
 
 ---------------------------------------------------------------------------------------------
-# Examples
-## Examples
+## 📸 Examples
 
 ### Example 1
 
-![Example 1](example%20pics/example1.png)
+![Example 1](examples/example1.png)
 
 ### Example 2
 
-![Example 2](example%20pics/example2.png)
+![Example 2](examples/example2.png)
 
 ### Example 3
 
-![Example 3](example%20pics/example3.png)
+![Example 3](examples/example3.png)
 
 ### Example 4
 
-![Example 4](example%20pics/example4.png)
+![Example 4](examples/example4.png)
 
-### Chapter
+### Chapter Page
 
-![Chapter](example%20pics/chapter.png)
+![Chapter Page](examples/chapter.png)
 
 ### Back Cover
 
-![Back Cover](example%20pics/back-cover-example.png)
+![Back Cover](examples/back-cover-example.png)
