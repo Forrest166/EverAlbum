@@ -45,7 +45,7 @@ EverAlbum/
 │     └─ workspace.py                    # Workspace root directory / default asset library path
 ├─ portrait_elements/                    # Default portrait asset library (auto-created after running)
 └─ SKILL.md                              # Skill document for future maintenance
-
+```
 ---------------------------------------------------------------------------------------------
 ## 📸 Examples
 
