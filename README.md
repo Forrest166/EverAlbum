@@ -21,11 +21,17 @@ The generator automatically:
 Features
 
 Automatic photo clustering
+
 Timeline-based organization
+
 Style similarity analysis
+
 40+ professionally designed layouts
+
 Automatic chapter pages
+
 Automatic back cover generation
+
 Chinese interface (English version coming soon)
 
 ## Directory Structure
@@ -46,6 +52,7 @@ EverAlbum/
 ├─ portrait_elements/                    # Default portrait asset library (auto-created after running)
 └─ SKILL.md                              # Skill document for future maintenance
 ```
+
 ---------------------------------------------------------------------------------------------
 ## 📸 Examples
 
