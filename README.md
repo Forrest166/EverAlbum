@@ -11,8 +11,11 @@ Automatically generate beautiful photo albums from thousands of personal photos.
 The generator automatically:
 
 📅 Clusters photos by month and event
+
 🎨 Groups photos by visual similarity
+
 🖼️ Supports 40+ album layout styles
+
 📖 Automatically generates chapter pages and back covers
 
 Features
