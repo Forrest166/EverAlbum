@@ -27,10 +27,28 @@ EverAlbum/
 
 ---------------------------------------------------------------------------------------------
 # Examples
-<img width="1410" height="1380" alt="back cover example" src="https://github.com/user-attachments/assets/8094b3c2-7ed3-4b8c-94c9-7ce5c58ee026" />
-<img width="826" height="1152" alt="example1" src="https://github.com/user-attachments/assets/8e297a40-ddc5-458f-bf46-63d45552d950" />
-<img width="794" height="1128" alt="chapter" src="https://github.com/user-attachments/assets/d7027ae6-9afa-486a-8a27-190e5bc551df" />
-<img width="806" height="1132" alt="example2" src="https://github.com/user-attachments/assets/a91de134-e11b-442b-a381-31e1463b1db0" />
-<img width="806" height="1132" alt="example2" src="https://github.com/user-attachments/assets/68267531-e7ec-4458-ac14-9ece169e403e" />
-<img width="802" height="1136" alt="example3" src="https://github.com/user-attachments/assets/e6477817-af8d-40bd-8ddf-6ca3237c291f" />
-<img width="804" height="1134" alt="example4" src="https://github.com/user-attachments/assets/e56a34b2-a799-44ba-8195-5ad9e0534889" />
+## Examples
+
+### Example 1
+
+![Example 1](example%20pics/example1.png)
+
+### Example 2
+
+![Example 2](example%20pics/example2.png)
+
+### Example 3
+
+![Example 3](example%20pics/example3.png)
+
+### Example 4
+
+![Example 4](example%20pics/example4.png)
+
+### Chapter
+
+![Chapter](example%20pics/chapter.png)
+
+### Back Cover
+
+![Back Cover](example%20pics/back-cover-example.png)
